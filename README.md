@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Felipe Villa Jr</h1>
 <h3 align="center">A dedicated Web developer from Miami, Florida</h3>
 
-- 🔭 I’m currently working on [My Porfolio](https://www.felipevilla.dev)
+- 🔭 I’m currently working on various projects!
 
-- 🌱 I’m currently learning **Material UI/ python/ Databases**
+- 🌱 I’m currently learning to get my **CEH** and learn **C#**
 
 - 👯 I’m looking to collaborate on **Social Media clones!**
 
 - 👨‍💻 All of my projects are available at [https://www.felipevilla.dev](https://www.felipevilla.dev)
 
-- 📝 I regularly write articles on [www.phillwritesfantasy.com](www.phillwritesfantasy.com)
+- 📝 I  write short stories on [www.phillwritesfantasy.com](www.phillwritesfantasy.com)
 
 - 💬 Ask me about **React/JavaScript/MyleetCode account**
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/felipe-villa-jr/](https://www.linkedin.com/in/felipe-villa-jr/)
 
-- ⚡ Fun fact **I can read a book a day, last year I read 105 titles.**
+- ⚡ Fun fact **I can read a book in a day, last year I read 105 titles.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
