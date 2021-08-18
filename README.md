@@ -11,7 +11,7 @@
 
 - 📝 I  write short stories on [www.phillwritesfantasy.com](www.phillwritesfantasy.com)
 
-- 💬 Ask me about **React/JavaScript/MyleetCode account**
+- 💬 Ask me about **React/JavaScript/MyleetCode/codeWars account**
 
 - 📫 How to reach me **felipevilla.webdev@gmail.com**
 
