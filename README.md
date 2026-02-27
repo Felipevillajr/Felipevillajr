@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Felipe Villa Jr</h1>
 <h3 align="center">A dedicated Web developer from Miami, Florida</h3>
 
-- 🔭 I’m currently working on various projects!
+- 🔭 I’m currently messing around with "vibe coding" 
 
-- 🌱 I’m currently learning to get my **CEH** and learn **C#**
+- 🌱 I’m currently working on my batchelor's in I.T.
 
-- 👯 I’m looking to collaborate on **Social Media clones!**
+- 👯 I’m looking to collaborate on video game clones or linux based repos
 
 - 👨‍💻 All of my projects are available at [https://www.felipevilla.dev](https://www.felipevilla.dev)
 
-- 📝 I  write short stories on [www.phillwritesfantasy.com](www.phillwritesfantasy.com)
-
 - 💬 Ask me about **React/JavaScript/MyleetCode/codeWars account**
 
-- 📫 How to reach me **felipevilla.webdev@gmail.com**
+- 📫 How to reach me **SPCVILLA.49** on signal
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/felipe-villa-jr/](https://www.linkedin.com/in/felipe-villa-jr/)
 
