@@ -11,10 +11,6 @@
 
 - 💬 Ask me about **React/JavaScript/MyleetCode/codeWars account**
 
-- 📫 How to reach me **SPCVILLA.49** on signal
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/felipe-villa-jr/](https://www.linkedin.com/in/felipe-villa-jr/)
-
 - ⚡ Fun fact **I can read a book in a day, last year I read 105 titles.**
 
 <h3 align="left">Connect with me:</h3>
